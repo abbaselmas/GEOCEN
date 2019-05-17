@@ -14,3 +14,4 @@
 
 [Colab link](https://colab.research.google.com/drive/1yeIUFtweaJOFfDwjG5W5ABfCerPchnw5)
 
+[Jupyter Notebook on github](https://github.com/abbaselmas/GEOCEN/blob/master/GAN/Melis_GAN.ipynb)
